@@ -1,0 +1,4 @@
+# GenericStacker Configuration
+plugin-prefix: "&8[&6GenericSpawners&8] &r"
+max-stack: 100000
+merge-radius: 4.0
