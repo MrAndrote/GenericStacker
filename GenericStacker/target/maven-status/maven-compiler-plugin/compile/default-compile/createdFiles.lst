@@ -1,0 +1,7 @@
+com\yourname\genericstacker\listeners\EntityDeathListener$1.class
+com\yourname\genericstacker\commands\KillEntitiesCommand.class
+com\yourname\genericstacker\commands\ReloadCommand.class
+com\yourname\genericstacker\GenericStacker.class
+com\yourname\genericstacker\tasks\EntityStackTask.class
+com\yourname\genericstacker\listeners\EntitySpawnListener.class
+com\yourname\genericstacker\listeners\EntityDeathListener.class
